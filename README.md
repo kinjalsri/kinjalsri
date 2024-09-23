@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kinjalsri01@gmail.com**
 
-- ⚡ Fun fact **When I'm not writing code, I'm probably writing a song. Multitasking is my superpower!**
+- ⚡ Fun fact **I'm probably writing a song when I'm not writing code. Multitasking is my superpower!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
