@@ -1,4 +1,5 @@
-![Uploading git gif .gif…]()
+
+![git gif ](https://github.com/user-attachments/assets/63c3d67e-4a8e-45f4-9483-290f761fa920)
 
 <h1 align="center">Hi 👋, I'm Kinjal srivastava</h1>
 <h3 align="center">Keen coder with a passion for learning and exploring new technologies. Balancing my love for music and code, striving to grow in both worlds, one project at a time.</h3>
